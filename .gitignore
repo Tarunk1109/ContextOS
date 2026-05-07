@@ -6,3 +6,9 @@ contextos_checkpoints.db
 state.json
 contextos_state.json
 .DS_Store
+.claude/
+.env.example
+.cursor/
+.sixth/
+.CONTEXTOS_PHASE1.md
+.requirements.txt
