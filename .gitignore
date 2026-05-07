@@ -1,4 +1,5 @@
 .env
+.env.example
 __pycache__/
 *.pyc
 chroma_db/
@@ -7,8 +8,8 @@ state.json
 contextos_state.json
 .DS_Store
 .claude/
-.env.example
 .cursor/
 .sixth/
-.CONTEXTOS_PHASE1.md
-.requirements.txt
+CONTEXTOS_PHASE1.md
+instructions.md
+requirements.txt
