@@ -1,0 +1,6 @@
+anthropic
+tiktoken
+streamlit
+python-dotenv
+chromadb
+sentence-transformers

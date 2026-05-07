@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+chroma_db/
+contextos_checkpoints.db
+state.json
+contextos_state.json
+.DS_Store
